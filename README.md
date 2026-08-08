@@ -199,10 +199,8 @@ a real person.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,50:0F766E,100:134E5E&height=100&section=footer" width="100%" alt="footer" />
-
 <div align="center">
 
-<sub>Thanks for scrolling this far  that means more to me than a star. See you in the next commit. 💙💚</sub>
+<sub>Thanks for scrolling this far that means more to me than a star. See you in the next commit. 💙💚</sub>
 
 </div>
