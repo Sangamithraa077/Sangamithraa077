@@ -17,7 +17,7 @@
 I'm a Computer Science student from Coimbatore who builds AI systems for a very specific
 kind of problem: information that's too dense, too scattered, or too high-stakes for a
 human to check by hand. A policy that contradicts itself two clauses later. A login pattern
-that looks almost — but not quite — like every other one that day. A regulatory circular
+that looks almost but not quite  like every other one that day. A regulatory circular
 that needs to be checked against a hundred SOPs before lunch.
 
 I don't just call an API and ship it. PolicySentinel runs a real knowledge graph and a
@@ -36,7 +36,7 @@ permission to start.
 ## 🏆 Man of the Match Performances
 
 <details open>
-<summary><b>🥇 PolicySentinel</b> — <i>the flagship century, deployed and live</i></summary>
+<summary><b> PolicySentinel</b> — <i>the flagship century, deployed and live</i></summary>
 <br>
 
 **The over:** Policies pile up as a company grows, and they start quietly contradicting
@@ -48,7 +48,7 @@ data → every obligation is cross-checked against every other policy on file �
 contradictions get flagged with an AI-drafted fix, ready to accept or reject. Backed by a
 Neo4j knowledge graph and a full audit trail. Built with a fellow contributor.
 
-`🟢 LIVE` — **[watch the replay →](https://policysentinel-frontend.onrender.com)** · **[scorecard →](https://github.com/Sangamithraa077/PolicySentinel)**
+**[watch the replay →](https://policysentinel-frontend.onrender.com)** · **[scorecard →](https://github.com/Sangamithraa077/PolicySentinel)**
 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/-React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -61,7 +61,7 @@ Neo4j knowledge graph and a full audit trail. Built with a fellow contributor.
 </details>
 
 <details>
-<summary><b>🤝 RegIntel AI</b> — <i>opening partnership, SEBI Securities Market TechSprint 2026</i></summary>
+<summary><b> RegIntel AI</b> — <i>opening partnership, SEBI Securities Market TechSprint 2026</i></summary>
 <br>
 
 **The over:** SEBI issues regulatory circulars constantly. Somewhere, a compliance team has
@@ -72,7 +72,7 @@ specialized AI agents, coordinated by one orchestrator, ingest circulars, extrac
 obligations, run semantic gap analysis against SOPs, and draft sentence-level redlines —
 every recommendation shipped with its own reasoning and confidence score.
 
-`🟡 HACKATHON BUILD` — **[scorecard →](https://github.com/ashokpsgitech/SEBI-hackathon--RegIntel-AI)**
+**[scorecard →](https://github.com/ashokpsgitech/SEBI-hackathon--RegIntel-AI)**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -82,7 +82,7 @@ every recommendation shipped with its own reasoning and confidence score.
 </details>
 
 <details>
-<summary><b>🎯 SSH-Bruteforce-Detection</b> — <i>the wicket-taking spell</i></summary>
+<summary><b> SSH-Bruteforce-Detection</b> — <i>the wicket-taking spell</i></summary>
 <br>
 
 **The over:** SSH brute-force detectors trained and tested on the same dataset look great
@@ -93,7 +93,7 @@ each one at a completely different, unseen 86K-line dataset to measure real gene
 XGBoost took the wicket: **98.68%** in-domain accuracy, **70.15%** cross-domain — with
 8.45μs inference, fast enough for real-time detection.
 
-`🟢 BENCHMARKED` — **[scorecard →](https://github.com/Sangamithraa077/SSH-Bruteforce-Detection)**
+ **[scorecard →](https://github.com/Sangamithraa077/SSH-Bruteforce-Detection)**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-EC0000?style=flat-square)
@@ -127,9 +127,9 @@ XGBoost took the wicket: **98.68%** in-domain accuracy, **70.15%** cross-domain 
 
 | Position | What I bring |
 |---|---|
-| 🤖 **All-rounder — Agentic AI** | Multi-agent pipelines that reason in stages, not one big prompt |
-| 🛡️ **New-ball bowler — Applied ML Security** | Detection systems built to survive outside the training set |
-| 📜 **Wicketkeeper — RegTech & Knowledge Graphs** | Making regulation something software can actually check |
+| **All-rounder — Agentic AI** | Multi-agent pipelines that reason in stages, not one big prompt |
+| **New-ball bowler — Applied ML Security** | Detection systems built to survive outside the training set |
+| **Wicketkeeper — RegTech & Knowledge Graphs** | Making regulation something software can actually check |
 
 <br>
 
@@ -182,47 +182,12 @@ XGBoost took the wicket: **98.68%** in-domain accuracy, **70.15%** cross-domain 
 
 <br>
 
-## 🎖️ Career Highlights
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🏆 Century, Not Just a Cameo**
-PolicySentinel is live in production, not sitting in a repo — full-stack, AI-powered, and still standing.
-
-</td>
-<td width="50%" valign="top">
-
-**🎯 Best Bowling Figures**
-98.68% in-domain, 70.15% cross-domain on brute-force detection — benchmarked against data it had never seen before.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🤝 National Selection**
-Part of the RegIntel AI squad at SEBI's Securities Market TechSprint 2026 — 8 agents, 1 team, 1 deadline.
-
-</td>
-<td width="50%" valign="top">
-
-**🌱 Building the Innings**
-5 public repositories and counting — each one shipped to actually solve something, not just to exist.
-
-</td>
-</tr>
-</table>
-
-<br>
-
 ## 📮 Send a Message to the Dugout
 
-Every project up there started as a small, stubborn question I couldn't let go of — *why
+Every project up there started as a small, stubborn question I couldn't let go of  *why
 does this contradict that?*, *why did this model fail on new data?* If you're chasing a
 question like that too, or you just want to compare notes on cricket, code, or both, don't
-overthink it — say hi. No pitch required, no "quick 15 minutes," just a real message from
+overthink it say hi. No pitch required, no "quick 15 minutes," just a real message from
 a real person.
 
 <div align="center">
@@ -238,6 +203,6 @@ a real person.
 
 <div align="center">
 
-<sub>Thanks for scrolling this far — that means more to me than a star. See you in the next commit. 💙💚</sub>
+<sub>Thanks for scrolling this far  that means more to me than a star. See you in the next commit. 💙💚</sub>
 
 </div>
