@@ -29,23 +29,20 @@ I like AI that can explain itself: answers with sources, models tested on data t
 
 ## Technical Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,fastapi,html,tailwind,postgres,supabase,docker,git,github,pytorch,sklearn&perline=6"/>
+<img src="https://skillicons.dev/icons?i=py,fastapi,html,tailwind,postgres,supabase,docker,git,github,pytorch,sklearn,vercel&perline=6" alt="Technical stack"/>
 
-<br><br>
+![Streamlit](https://img.shields.io/badge/-Streamlit-0F766E?style=flat-square&logo=streamlit&logoColor=white) ![Neo4j](https://img.shields.io/badge/-Neo4j-0E7490?style=flat-square&logo=neo4j&logoColor=white)
 
-![Streamlit](https://img.shields.io/badge/-Streamlit-0F766E?style=flat-square&logo=streamlit&logoColor=white)
-![Neo4j](https://img.shields.io/badge/-Neo4j-0E7490?style=flat-square&logo=neo4j&logoColor=white)
-
-</p>
+</div>
 
 ---
 
 ## Featured Work
 
 | Project | Description | Technologies |
-|----------|-------------|--------------|
+|:---------|:------------|:-------------|
 | [**Athlete Intelligence**](https://github.com/Sangamithraa077/Agentic-Fatigue-Fingerprinting) | Explainable fatigue tracking from wearable signals, with a RAG coach that checks its own numbers. | Python · FastAPI · SHAP · RAG |
 | [**PolicySentinel**](https://github.com/Sangamithraa077/PolicySentinel) ([live](https://policysentinel-frontend.onrender.com)) | Finds contradictions across company policies, maps them to regulations and drafts the fix. *Société Générale Hackathon.* | FastAPI · React · Neo4j · Gemini |
 | [**RegIntel AI**](https://github.com/ashokpsgitech/SEBI-hackathon--RegIntel-AI) | Eight AI agents that turn SEBI circulars into SOP redlines. *SEBI Hackathon, team build.* | FastAPI · React · LLM Agents |
@@ -56,17 +53,44 @@ I like AI that can explain itself: answers with sources, models tested on data t
 
 ## Focus Area
 
-| <img src="https://skillicons.dev/icons?i=pytorch" width="40"><br>**LLMs, RAG & NLP** | <img src="https://skillicons.dev/icons?i=py" width="40"><br>**Machine Learning** |
-|:---:|:---:|
-| Retrieval-grounded systems that cite sources, check their own numbers and say "I can't tell" when they should. | Explainable models and honest evaluation: leave-one-out, cross-dataset tests, and reporting the number that stings. |
-
-| <img src="https://skillicons.dev/icons?i=fastapi" width="40"><br>**Backend & APIs** | <img src="https://skillicons.dev/icons?i=postgres" width="40"><br>**Data & Knowledge Graphs** |
-|:---:|:---:|
-| FastAPI services with clean architecture, audit trails and graceful fallbacks when an AI provider fails. | PostgreSQL and Supabase for structure, Neo4j when the relationships are the point. |
-
-| <img src="https://skillicons.dev/icons?i=githubactions" width="40"><br>**CI/CD & Automation** | <img src="https://skillicons.dev/icons?i=docker" width="40"><br>**DevOps** |
-|:---:|:---:|
-| Learning pipelines that build, test and ship on every push, plus automations that remove repetitive work. | Containerising apps with Docker so "works on my machine" becomes "works." |
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+<img src="https://skillicons.dev/icons?i=pytorch" width="40"><br>
+<b>LLMs, RAG & NLP</b><br>
+Retrieval-grounded systems that cite sources, check their own numbers and say "I can't tell" when they should.
+</td>
+<td width="50%" align="center" valign="top">
+<img src="https://skillicons.dev/icons?i=py" width="40"><br>
+<b>Machine Learning</b><br>
+Explainable models and honest evaluation: leave-one-out, cross-dataset tests, and reporting the number that stings.
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<img src="https://skillicons.dev/icons?i=fastapi" width="40"><br>
+<b>Backend & APIs</b><br>
+FastAPI services with clean architecture, audit trails and graceful fallbacks when an AI provider fails.
+</td>
+<td width="50%" align="center" valign="top">
+<img src="https://skillicons.dev/icons?i=postgres" width="40"><br>
+<b>Data & Knowledge Graphs</b><br>
+PostgreSQL and Supabase for structure, Neo4j when the relationships are the point.
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<img src="https://skillicons.dev/icons?i=githubactions" width="40"><br>
+<b>CI/CD & Automation</b><br>
+Learning pipelines that build, test and ship on every push, plus automations that remove repetitive work.
+</td>
+<td width="50%" align="center" valign="top">
+<img src="https://skillicons.dev/icons?i=docker" width="40"><br>
+<b>DevOps</b><br>
+Containerising apps with Docker so "works on my machine" becomes "works."
+</td>
+</tr>
+</table>
 
 ---
 
@@ -91,19 +115,13 @@ I like AI that can explain itself: answers with sources, models tested on data t
 
 <td width="28%" align="center" valign="middle">
 
-<h1>🏏</h1>
+<h3 align="center">🏏<br>Off the pitch</h3>
 
-**Off the pitch**
+<p align="center">writing cricket at<br><a href="https://doosra-opinion.vercel.app">Doosra Opinion</a></p>
 
-writing cricket at<br>[Doosra Opinion](https://doosra-opinion.vercel.app)
+<h3 align="center">📚<br>Story books</h3>
 
-<br>
-
-<h1>📚</h1>
-
-**Story books**
-
-building the habit
+<p align="center">building the habit</p>
 
 </td>
 
@@ -114,28 +132,18 @@ building the habit
 
 ## Connect
 
-<p align="center">
+<div align="center">
 
-<a href="https://doosra-opinion.vercel.app">
-<img src="https://img.shields.io/badge/Blog-Doosra_Opinion-0F766E?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<a href="https://doosra-opinion.vercel.app"><img src="https://img.shields.io/badge/Blog-Doosra_Opinion-0F766E?style=for-the-badge&logo=vercel&logoColor=white"/></a> <a href="https://github.com/Sangamithraa077"><img src="https://img.shields.io/badge/GitHub-Sangamithraa077-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="mailto:sangamithraasenthil@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-0E7490?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<a href="https://github.com/Sangamithraa077">
-<img src="https://img.shields.io/badge/GitHub-Sangamithraa077-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:sangamithraasenthil@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say_hi-0E7490?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-<i>Still figuring out the best in me.</i>
+*Still figuring out the best in me.*
 
-<b>Work in progress, on purpose.</b>
+**Work in progress, on purpose.**
 
-</p>
+</div>
